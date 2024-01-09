@@ -37,7 +37,11 @@ It's understandable that the year 2019 having the most revenue as it's the only 
 
 ![revenue_by_year](files\revenue_by_year.jpg)
 
-Seggregating the data further tells that City Hotel brings in more revenue despite falling behind Resort Hotel in the initial year. Following query provides us  with the necessary numbers.
+Seggregating the data further tells that City Hotel brings in more revenue despite falling behind Resort Hotel in the initial year.
+
+![revenue_by_hotel](files\revenue_by_hotel.jpg)
+
+Query used is below.
 
     SELECT hotel, arrival_date_year, ROUND(SUM(((stays_in_weekend_nights + stays_in_week_nights) * (adr - adr*Discount)) + ((adults + children)*cost)), 2) AS revenue
     FROM hotel_revenue.revenue
@@ -66,5 +70,7 @@ This query tells that Resort Hotel had a cancellation of 9.24% while City Hotel 
     WHERE is_canceled = 1
     GROUP BY is_canceled, hotel, arrival_date_year
     ORDER BY hotel;
+
+![cancellation_by_year](files\cancellations_by_year.jpg)
 
 While seggregating it by year tells us that the trend of cancellation is increasing.
