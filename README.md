@@ -73,4 +73,22 @@ This query tells that Resort Hotel had a cancellation of 9.24% while City Hotel 
 
 ![cancellation_by_year](files\cancellations_by_year.jpg)
 
-While seggregating it by year tells us that the trend of cancellation is increasing.
+While seggregating it by year tells us that the trend of cancellation is increasing. Assuming this trend in mind, it's worth to look into why customers cancel their reservations and provide better customer support.
+
+## Hotel Revenue Dashboard
+![dashboard](files\hotel dashboard image.jpg)
+
+<a href="https://www.google.com/" target="_blank">Click here</a> to access the interactive dashboard.
+
+This dashboard provides revenue genarated and other metrics such as average daily rate and discount.
+The revenue generated is calculated by using a custom column named 'revenue'.
+
+    Revenue = ([stays_in_weekend_nights] + [stays_in_week_nights]) * ([adr] - ([adr]*[Discount])) + ([adults] + [children]) * [Cost]
+
+The variable Total Knights in the dashboard is found using a a measure in Power BI.
+
+    Total Nights = SUM(total_revenue[stays_in_week_nights]) + SUM(total_revenue[stays_in_weekend_nights])
+
+## Conclusion
+In this Eploratory Data Analysis of Hotel Revenue, we found that the revenue generated has been increasing by time. Also, parking space have been used at a steady rate. So, there is no need of parking lot expansion. We also found that cancellation have been increasing over time. So, we have recommended that they look into it.
+Thanks for giving your valuable time to read this through.
