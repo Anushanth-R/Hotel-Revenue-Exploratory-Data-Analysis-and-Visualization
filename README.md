@@ -1,6 +1,8 @@
 # Hotel Revenue Exploratory Data Analysis and Visualization
  This is a Portfolio EDA guided project available on YouTube.
 
+ <a href="https://www.google.com/" target="_blank">Click here</a> to access the interactive dashboard.
+
 ## Introduction
 This Hotel Revenue Exploratory Data Analysis project is based on the guided project provided by a Youtube channel named 'Absent Data'. The dataset is provided by the Youtuber. In this project, we will be looking at the revenue generated, parking requirements and other variables.
 
