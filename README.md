@@ -76,6 +76,7 @@ This query tells that Resort Hotel had a cancellation of 9.24% while City Hotel 
 While seggregating it by year tells us that the trend of cancellation is increasing. Assuming this trend in mind, it's worth to look into why customers cancel their reservations and provide better customer support.
 
 ## Hotel Revenue Dashboard
+
 ![dashboard](files\hotel dashboard image.jpg)
 
 <a href="https://www.google.com/" target="_blank">Click here</a> to access the interactive dashboard.
