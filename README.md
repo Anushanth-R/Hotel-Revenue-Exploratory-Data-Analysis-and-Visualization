@@ -77,7 +77,7 @@ While seggregating it by year tells us that the trend of cancellation is increas
 
 ## Hotel Revenue Dashboard
 
-![dashboard](files\hotel dashboard image.jpg)
+![dashboard](files\hotel_dashboard_image.jpg)
 
 <a href="https://www.google.com/" target="_blank">Click here</a> to access the interactive dashboard.
 
