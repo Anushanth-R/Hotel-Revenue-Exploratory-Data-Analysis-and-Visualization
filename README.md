@@ -73,7 +73,7 @@ This query tells that Resort Hotel had a cancellation of 9.24% while City Hotel 
     GROUP BY is_canceled, hotel, arrival_date_year
     ORDER BY hotel;
 
-![cancellation_by_year](files\cancellations_by_year.jpg)
+![cancellation_by_year](https://github.com/Anushanth-R/Hotel-Revenue-Exploratory-Data-Analysis-and-Visualization/blob/main/files/cancellations_by_year.jpg)
 
 While seggregating it by year tells us that the trend of cancellation is increasing. Assuming this trend in mind, it's worth to look into why customers cancel their reservations and provide better customer support.
 
