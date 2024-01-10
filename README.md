@@ -1,7 +1,7 @@
 # Hotel Revenue Exploratory Data Analysis and Visualization
  This is a Portfolio EDA guided project available on YouTube.
 
- <a href="https://www.google.com/" target="_blank">Click here</a> to access the interactive dashboard.
+ <a href="https://www.novypro.com/project/hotel-revenue-dashboard-3" target="_blank">Click here</a> to access the interactive dashboard.
 
 ## Introduction
 This Hotel Revenue Exploratory Data Analysis project is based on the guided project provided by a Youtube channel named 'Absent Data'. The dataset is provided by the Youtuber. In this project, we will be looking at the revenue generated, parking requirements and other variables.
@@ -81,9 +81,7 @@ While seggregating it by year tells us that the trend of cancellation is increas
 
 ![dashboard](files\hotel_dashboard_image.jpg)
 
-<iframe title="Report Section" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZWU1ZmI3MTQtZmJmZC00NWFhLWFiZGEtYjBhMTFlMjMzNGNlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" frameborder="0" allowFullScreen="true"></iframe>
-
-<a href="https://www.google.com/" target="_blank">Click here</a> to access the interactive dashboard.
+<a href="https://www.novypro.com/project/hotel-revenue-dashboard-3" target="_blank">Click here</a> to access the interactive dashboard.
 
 This dashboard provides revenue genarated and other metrics such as average daily rate and discount.
 The revenue generated is calculated by using a custom column named 'revenue'.
