@@ -41,7 +41,7 @@ It's understandable that the year 2019 having the most revenue as it's the only 
 
 Seggregating the data further tells that City Hotel brings in more revenue despite falling behind Resort Hotel in the initial year.
 
-![revenue_by_hotel](files\revenue_by_hotel.jpg)
+![revenue_by_hotel](files\revenue_by_hotel.jpg) 
 
 Query used is below.
 
@@ -80,6 +80,7 @@ While seggregating it by year tells us that the trend of cancellation is increas
 ## Hotel Revenue Dashboard
 
 ![dashboard](files\hotel_dashboard_image.jpg)
+
 <iframe title="Report Section" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZWU1ZmI3MTQtZmJmZC00NWFhLWFiZGEtYjBhMTFlMjMzNGNlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 <a href="https://www.google.com/" target="_blank">Click here</a> to access the interactive dashboard.
