@@ -1,5 +1,4 @@
 # Hotel Revenue Exploratory Data Analysis and Visualization
- This is a Portfolio EDA guided project available on YouTube.
 
  <a href="https://www.novypro.com/project/hotel-revenue-dashboard-3" target="_blank">Click here</a> to access the interactive dashboard.
 
